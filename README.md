@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**srizzon/srizzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sou um desenvolvedor full-stack trabalhando atualmente na @totvs em Belo Horizonte.
 
-Here are some ideas to get you started:
+- ⚙️ Minhas principais linguagens/ferramentas: `.js`, `.ts`, `.cs`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 📚 Eu gosto bastante de ler. Meu último livro lido foi: "Roube como um artista - Austin Kleon"
+- 📼 Tenho um canal no youtube: [https://www.youtube.com/rizzonho](https://www.youtube.com/rizzonho)
+- 💻 Meu portfólio: [https://srizzon.github.io/](https://srizzon.github.io/)
+- 💬 Quer conversar? [https://www.linkedin.com/in/shrizzon/](https://www.linkedin.com/in/shrizzon/)
+- 😛 Um fato sobre mim: Eu amo contar piadas 🤣
+- 🤡 Uma piada: Tinha um pintinho chamado relâm. Um dia choveu, e relâm piou. 🐤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=srizzon&show_icons=true)

@@ -1,6 +1,6 @@
 ### Olá 👋
 
-#### Sou um desenvolvedor full-stack trabalhando atualmente na @totvs em Belo Horizonte.
+#### Sou um desenvolvedor front-end trabalhando atualmente na CI&T.
 
 - ⚙️ Minhas principais linguagens/ferramentas: `.js`, `.ts`, `.cs`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 📚 Eu gosto bastante de ler. Meu último livro lido foi: "Roube como um artista - Austin Kleon"

@@ -1,62 +1,52 @@
-# Hi there! 👋 I'm Samuel Rizzon
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer+%40+Blackthorn;Supabase+Enthusiast;Founder+%40+ministrary;Co-founder+%40+zard-ui" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-I'm a passionate **Frontend Developer** and **Supabase enthusiast** currently working at [**Blackthorn**](https://blackthorn.io/), where I craft amazing user experiences and build robust web applications.
-
-🚀 **Founder** of [**@ministrary**](https://github.com/ministrary)  
-🎨 **Co-founder** of [**@zard-ui**](https://github.com/zard-ui)
-
-- 🔭 Currently working on modern web applications with **Angular** and **TypeScript**
-- ⚡ Building powerful backends with **Supabase**
-- 🌱 Always learning and exploring new frontend technologies
-- 👨‍💻 Love creating clean, efficient, and scalable code
-- 🎨 Passionate about UI/UX design and user experience
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### Languages & Frameworks
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Samuel+Rizzon;Developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;I+build+products+fast;and+ship+often)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<br>
 
-### Design & Tools
+<a href="https://www.thegitcity.com/dev/srizzon">
+<img src="https://www.thegitcity.com/dev/srizzon/opengraph-image" width="600" alt="Samuel Rizzon - Git City"/>
+</a>
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<br>
 
-</div>
-
-## 🎬 Content Creation
-
-📺 **YouTube Channel**: I share knowledge and tutorials about frontend development  
-[**@samuelrizzondev**](https://www.youtube.com/@samuelrizzondev) - Check it out for web development tips and tricks!
-
-## 🌐 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelrizzon/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@samuelrizzondev)
+**Working remotely for a NYC startup · 9+ years coding**
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=srizzon&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
+### 🚀 Projects
+
+**[ReplyOS](https://reply-os.vercel.app)** — AI-powered engagement for X  
+`$1k+/mo` · `3 weeks old` · Web app + Chrome extension + AI agent
+
+**[The Git City](https://thegitcity.com)** — Your GitHub as a 3D city  
+`700+ devs` · `built in 1 day`
+
+**[ZardUI](https://github.com/zard-ui)** — The shadcn/ui for Angular  
+`700+ ⭐` · `open source`
+
+---
+
+### 🛠️ Stack
+
+<img src="https://skillicons.dev/icons?i=nextjs,angular,ts,supabase,tailwind" />
+
+Building with **Claude Code** + **Anthropic API** + **OpenAI API**
+
+---
+
+### 🔗 Links
+
+[![X](https://img.shields.io/badge/@samuelrizzondev-000?style=flat-square&logo=x&logoColor=white)](https://x.com/samuelrizzondev)
+[![YouTube](https://img.shields.io/badge/2.7k_subs-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@samuelrizzondev)
+[![LinkedIn](https://img.shields.io/badge/samuelrizzon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelrizzon)
+[![TikTok](https://img.shields.io/badge/@samuelrizzondev-000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@samuelrizzondev)
+[![Instagram](https://img.shields.io/badge/@samuelrizzondev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/samuelrizzondev)
+
+---
 
 <div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+<sub>Building my city, one commit at a time 🏙️</sub>
 </div>

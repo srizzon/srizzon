@@ -18,7 +18,7 @@
 
 ### 🚀 Projects
 
-**[ReplyOS](https://reply-os.vercel.app)** — AI-powered engagement for X  
+**[ReplyOS](https://reply-os.com)** — AI-powered engagement for X  
 `$1k+/mo` · `3 weeks old` · Web app + Chrome extension + AI agent
 
 **[The Git City](https://thegitcity.com)** — Your GitHub as a 3D city  

@@ -18,11 +18,11 @@
 
 ### 🚀 Projects
 
+**[The Git City](https://thegitcity.com)** — Your GitHub as a 3D city  
+`70.000+ devs` · `built in 1 day`
+
 **[ReplyOS](https://reply-os.com)** — AI-powered engagement for X  
 `$1k+/mo` · `3 weeks old` · Web app + Chrome extension + AI agent
-
-**[The Git City](https://thegitcity.com)** — Your GitHub as a 3D city  
-`700+ devs` · `built in 1 day`
 
 **[ZardUI](https://github.com/zard-ui)** — The shadcn/ui for Angular  
 `700+ ⭐` · `open source`
@@ -33,7 +33,7 @@
 
 <img src="https://skillicons.dev/icons?i=nextjs,angular,ts,supabase,tailwind" />
 
-Building with **Claude Code** + **Anthropic API** + **OpenAI API**
+Building with **Claude Code**.
 
 ---
 

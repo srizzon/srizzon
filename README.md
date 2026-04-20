@@ -10,7 +10,7 @@
 
 <br>
 
-**Working remotely for a NYC startup · 9+ years coding**
+**Working remotely for a NYC startup · 10+ years coding**
 
 </div>
 

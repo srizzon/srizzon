@@ -3,7 +3,7 @@
 <img src="assets/built.svg" width="100%" alt="Things I built">
 <a href="https://thegitcity.com"><img src="assets/gitcity.svg" width="100%" alt="Git City: your GitHub as a 3D pixel city. 85K+ developers."></a>
 <a href="https://zardui.com"><img src="assets/zardui.svg" width="100%" alt="ZardUI: the shadcn/ui for Angular. 1.1K stars."></a>
-<a href="https://samuelrizzon.dev"><img src="assets/site.svg" width="100%" alt="My site, samuelrizzon.dev: every pixel laid by tiny agents."></a>
+<a href="https://samuelrizzon.dev"><img src="assets/site.svg?v=2" width="100%" alt="My site, samuelrizzon.dev: every pixel laid by tiny agents."></a>
 
 <a href="https://youtube.com/@samuelrizzondev"><img src="assets/youtube.svg" width="100%" alt="YouTube: AI and Claude Code in practice."></a>
 

@@ -1,52 +1,16 @@
-<div align="center">
+<a href="https://samuelrizzon.dev"><img src="assets/header.svg" width="100%" alt="Samuel Rizzon. Product engineer. Founder of Git City. Building at Delphi."></a>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Samuel+Rizzon;Developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;I+build+products+fast;and+ship+often)
+<img src="assets/built.svg" width="100%" alt="Things I built">
+<a href="https://thegitcity.com"><img src="assets/gitcity.svg" width="100%" alt="Git City: your GitHub as a 3D pixel city. 85K+ developers."></a>
+<a href="https://zardui.com"><img src="assets/zardui.svg" width="100%" alt="ZardUI: the shadcn/ui for Angular. 1.1K stars."></a>
+<a href="https://samuelrizzon.dev"><img src="assets/site.svg" width="100%" alt="samuelrizzon.dev: every pixel laid by tiny agents."></a>
 
-<br>
+<a href="https://youtube.com/@samuelrizzondev"><img src="assets/youtube.svg" width="100%" alt="YouTube: AI and Claude Code in practice."></a>
 
-<a href="https://www.thegitcity.com/dev/srizzon">
-<img src="https://www.thegitcity.com/dev/srizzon/opengraph-image" width="600" alt="Samuel Rizzon - Git City"/>
-</a>
-
-<br>
-
-**Working remotely for a NYC startup · 10+ years coding**
-
-</div>
-
----
-
-### 🚀 Projects
-
-**[The Git City](https://thegitcity.com)** — Your GitHub as a 3D city  
-`70.000+ devs` · `built in 1 day`
-
-**[ReplyOS](https://reply-os.com)** — AI-powered engagement for X  
-`$1k+/mo` · `3 weeks old` · Web app + Chrome extension + AI agent
-
-**[ZardUI](https://github.com/zard-ui)** — The shadcn/ui for Angular  
-`700+ ⭐` · `open source`
-
----
-
-### 🛠️ Stack
-
-<img src="https://skillicons.dev/icons?i=nextjs,angular,ts,supabase,tailwind" />
-
-Building with **Claude Code**.
-
----
-
-### 🔗 Links
-
-[![X](https://img.shields.io/badge/@samuelrizzondev-000?style=flat-square&logo=x&logoColor=white)](https://x.com/samuelrizzondev)
-[![YouTube](https://img.shields.io/badge/2.7k_subs-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@samuelrizzondev)
-[![LinkedIn](https://img.shields.io/badge/samuelrizzon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelrizzon)
-[![TikTok](https://img.shields.io/badge/@samuelrizzondev-000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@samuelrizzondev)
-[![Instagram](https://img.shields.io/badge/@samuelrizzondev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/samuelrizzondev)
-
----
-
-<div align="center">
-<sub>Building my city, one commit at a time 🏙️</sub>
-</div>
+<p align="center">
+<a href="https://samuelrizzon.dev"><img src="assets/btn-site.svg" height="48" alt="Site"></a>&nbsp;
+<a href="https://youtube.com/@samuelrizzondev"><img src="assets/btn-youtube.svg" height="48" alt="YouTube"></a>&nbsp;
+<a href="https://x.com/samuelrizzondev"><img src="assets/btn-x.svg" height="48" alt="X"></a>&nbsp;
+<a href="https://linkedin.com/in/samuelrizzon"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn"></a>&nbsp;
+<a href="https://instagram.com/samuelrizzondev"><img src="assets/btn-instagram.svg" height="48" alt="Instagram"></a>
+</p>
